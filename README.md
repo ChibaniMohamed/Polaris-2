@@ -30,7 +30,7 @@
 <br/>
 
 <p align="center">
-  <img width="1000px" height="600px" src="https://github.com/ChibaniMohamed/Polaris-2/blob/main/realtime.gif">
+  <img width="1000px" height="400px" src="https://github.com/ChibaniMohamed/Polaris-2/blob/main/realtime.gif">
   <p align="center">
     <b>Real-time Recognition (Demo)</b>
     </p>
