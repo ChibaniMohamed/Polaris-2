@@ -8,6 +8,7 @@
 - [x] More futuristic UI and Animation
 - [x] Improved user experience
 - [x] Real-time Recognition
+- [x] Predict age and gender
 - [x] Fast and accurate recognition
 - [x] Search for wanted/missing people
 - [x] Save last seen date and time for every face
